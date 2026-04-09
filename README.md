@@ -1,98 +1,121 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Juan+Pardo" alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Juan Pardo</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Data+Engineer+and+Backend+Engineer" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=4000&color=00ADB5&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Backend+Enthusiast;Building+scalable+data+pipelines;Turning+data+into+reliable+systems" />
+  </a>
+</p>
 
+<img align="right" height="260" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYwdjk5ZTVtaWMzcnJhYjVzaGdtdWZlNHVsMGh5aG1qODZtZDQ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif">
-  
-  <h3> Data & Backend Engineer </h3>
-  
+---
 
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🎯 **Focused on Data Engineering**
+- ⚙️ Building scalable data pipelines & backend systems
+- 📊 Strong experience with data processing, ingestion & system design
+- 🔍 Interested in distributed systems, observability & performance
 
-<a href="https://www.linkedin.com/in/juan-pardo-lavado/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Juan Pardo</a>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-## 🚀💻 Technologies & Tools
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### <u> Languages: </u>
-<br>
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;
-&nbsp;
-<br>
+### ⚙️ Backend & Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### <u> Backend Development: </u>
-<br>
+---
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-<br>
 
-### <u> Tools: </u>
-<br>
+---
 
+### 📊 Data & Processing
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-red?style=for-the-badge)
+
+---
+
+### 🧱 Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-&nbsp;
-<br>
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### <u> Version Control: </u>
-<br>
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-<br>
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 
-### <u> Operating Systems and Others: </u>
-<br>
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-&nbsp;
-<br>
+### 📈 Monitoring
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### <u> Currently I'm learning: </u>
-<br>
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-&nbsp;
-<br>
+## 📌 Featured Projects
 
+### 🔹 Async CSV Importer
+> High-performance data ingestion pipeline handling **500k+ records**
 
-<hr>
+- ⚡ Built with FastAPI + RabbitMQ
+- 🧵 Async processing & background workers
+- 📦 Designed for scalability & fault tolerance  
+
+👉 https://github.com/juangorz
+
+---
+
+### 🔹 Bank Honeypot
+> Real-time monitoring system for detecting simple attack patterns
+
+- 📡 Event tracking & logging
+- 🚨 Attack simulation & detection
+- 📊 Observability-focused design  
+
+👉 https://github.com/juangorz
+
+---
+
+### 🔹 Notification Service
+> Event-driven microservice architecture
+
+- 📨 RabbitMQ-based messaging
+- 🗄️ PostgreSQL persistence
+- 🔄 Decoupled & scalable system  
+
+👉 https://github.com/juangorz
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/juangorz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-pardo-lavado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://juanpardo-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+  </a>
+</p>
+
+---
+
+⭐ *Open to Data Engineering opportunities*
