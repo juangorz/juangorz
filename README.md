@@ -7,7 +7,7 @@
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYwdjk5ZTVtaWMzcnJhYjVzaGdtdWZlNHVsMGh5aG1qODZtZDQ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif">
   
-  <h3> Backend Developer </h3>
+  <h3> Data & Backend Engineer </h3>
   
 
 
